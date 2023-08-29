@@ -1,58 +1,54 @@
-# Matias Psara
+## Hi there! 👋
 
-### Aspiring Developer | Java | JavaScript | Web Development
+I'm matiaspsara, an active GitHub user who loves coding and problem-solving. Welcome to my GitHub profile!
 
-## About Me
+### 🧐 About Me
 
-I am a passionate developer with a strong focus on Java and JavaScript. I strive for clean code and creative solutions, and I am always eager to learn and collaborate on innovative projects. Currently pursuing a degree in Computer Science at Universidad Nacional de General Sarmiento, where I have been developing my skills in object-oriented programming and web development.
+- 🌱 Aspiring developer on a quest for clean code and creative solutions
+- 💻 Proficient in languages like Java and JavaScript, with a strong foundation in object-oriented programming
+- 🎓 Currently pursuing a degree in Computer Science at Universidad Nacional de General Sarmiento
+- 🤝 Enthusiastic about collaborating on innovative programming projects
+- 📚 Dedicated to continuous learning and self-improvement in the field of software development
 
-## My Projects
+### 🔥 My Activity and Skill Set
 
-Here are some of the projects I have worked on:
+In the time I've spent on GitHub, I have actively contributed to the community. Here's an overview of my GitHub activity:
 
-### GeneradorDeEquipos
-![GeneradorDeEquipos](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=GeneradorDeEquipos&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+- ✅ Created 11 public repositories, demonstrating my dedication to sharing my code with others
+- 😄 Uploaded projects written in diverse languages such as Java, JavaScript, HTML, CSS, C, and Shell
+- ✔️ Made a total of 26 commits so far, showcasing my commitment to coding on GitHub
+- 🌟 Developed and contributed to projects with a focus on algorithm optimization and problem-solving
 
+### ✨ My Best Projects 
 
+Here are a few of my notable projects:
 
-### ConectAR
-![ConectAR](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=ConectAR&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+#### 1. GeneradorDeEquipos
 
+- A Java application developed for a university project
+- Uses Backtracking algorithm to generate teams from a customizable list of people
+- Demonstration of my ability to implement algorithms in Java and work on university assignments
 
-### Juegos-Aritmeticos
-![Juegos-Aritmeticos](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=Juegos-Aritmeticos&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+#### 2. ConectAR
 
+- A project implementing the Kruskal algorithm in Java
+- Finds the minimum spanning tree in a weighted graph
+- Showcases my interest in algorithm optimization and problem-solving
 
-### Minitp-Shell-Procesos
-![Minitp Shell Procesos](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=Minitp-Shell-Procesos&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+These projects reflect my skills and interests as a developer and problem solver. I am constantly working on new projects and learning new technologies. Check out my GitHub profile to discover more of my creations!
 
-A shell implementation in C that allows you to manage processes efficiently in a Unix-based system.
+### 📫 How to Reach Me
 
-### landing-page
-![Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=landing-page&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+I am open to collaborations and connections within the GitHub community. If you have any questions, feedback, or project proposals, feel free to reach out to me:
 
-A simple landing page project showcasing responsive design and the use of HTML, CSS, and JavaScript.
+- 📧 Email: [matiaspsara@example.com](mailto:matiaspsara@example.com)
+- 💼 LinkedIn: [Matias Psara](https://www.linkedin.com/in/matiaspsara/)
+- 🌐 Website: [matiaspsara.com](https://matiaspsara.com/)
 
-## Skills and Technologies
+Let's connect and make great things together!
 
-I have experience in the following programming languages and technologies:
+### 👀 Stay Connected
 
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-- C
-- Shell
+Feel free to explore my repositories and see my latest activities on [GitHub](https://github.com/matiaspsara). While engagement and attention might be low at the moment, I am always working on new projects to expand my professional network. Your support and feedback are highly appreciated!
 
-## Get In Touch
-
-- Contact Email: matiaspsara@gmail.com
-- LinkedIn: [matiaspsara](https://www.linkedin.com/in/matias-psara-9713ba186/)
-- GitHub: [matiaspsara](https://github.com/matiaspsara)
-
-Feel free to reach out if you are interested in collaborating on a project or if you have any questions. Let's connect!
-
----
-
-_This profile README was generated with love by Vox Assist, powered by OpenAI's GPT-3._
+Let's code, learn, and grow together in the GitHub community! 😄👍
