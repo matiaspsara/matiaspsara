@@ -2,12 +2,6 @@
 
 ### Aspiring Developer | Java | JavaScript | Web Development
 
-[![LinkedIn Badge](https://img.shields.io/badge/-matiaspsara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaspsara/)](https://www.linkedin.com/in/matiaspsara/) [![GitHub Followers](https://img.shields.io/github/followers/matiaspsara?style=social)](https://github.com/matiaspsara)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiaspsara&&show_icons=true&&title_color=17a2b8&icon_color=271b1b&text_color=daf7f7&bg_color=090909)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspsara&layout=compact&theme=midnight-purple)
-
 ## About Me
 
 I am a passionate developer with a strong focus on Java and JavaScript. I strive for clean code and creative solutions, and I am always eager to learn and collaborate on innovative projects. Currently pursuing a degree in Computer Science at Universidad Nacional de General Sarmiento, where I have been developing my skills in object-oriented programming and web development.
