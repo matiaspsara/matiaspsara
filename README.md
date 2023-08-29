@@ -10,15 +10,6 @@ I'm Matias Psara, a university student user who loves coding and problem-solving
 - 🤝 Enthusiastic about collaborating on innovative programming projects
 - 📚 Dedicated to continuous learning and self-improvement in the field of software development
 
-### 🔥 My Activity and Skill Set
-
-In the time I've spent on GitHub, I have actively contributed to the community. Here's an overview of my GitHub activity:
-
-- ✅ Created 11 public repositories, demonstrating my dedication to sharing my code with others
-- 😄 Uploaded projects written in diverse languages such as Java, JavaScript, HTML, CSS, C, and Shell
-- ✔️ Made a total of 26 commits so far, showcasing my commitment to coding on GitHub
-- 🌟 Developed and contributed to projects with a focus on algorithm optimization and problem-solving
-
 ### ✨ My Best Projects 
 
 Here are a few of my notable projects:
@@ -48,7 +39,7 @@ These projects reflect my skills and interests as a developer and problem solver
 I am open to collaborations and connections within the GitHub community. If you have any questions, feedback, or project proposals, feel free to reach out to me:
 
 - 📧 Email: [matiaspsara@example.com](mailto:matiaspsara@gmail.com)
-- 💼 LinkedIn: [Matias Psara](https://www.linkedin.com/in/matias-psara-9713ba186/)
+- 💼 LinkedIn: [Matias Psara](https://www.linkedin.com/in/matias-psara/)
 
 Let's connect and make great things together!
 
