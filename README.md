@@ -1,15 +1,65 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Matias Psara</h1>
-<h3 align="center">Aspiring developer on a quest for clean code and creative solutions. Proficient in languages like Java and Python, with a focus on object oriented programming and crafting interactive applications. Currently a university student pursuing a degree in Computer Science at Universidad Nacional de General Sarmiento, dedicated to continuous learning and enthusiastic about collaborating on innovative projects.</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966")
-- 🌱 I’m currently learning **Web Development and Data Bases**
+# matiaspsara 
 
-- 💬 Ask me about **Object Oriented Programming in Java**
+### Aspiring Developer | Java | JavaScript | Web Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matias-psara-9713ba186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-psara-9713ba186/" height="30" width="40" /></a>
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/-matiaspsara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiaspsara/)](https://www.linkedin.com/in/matiaspsara/) [![GitHub Followers](https://img.shields.io/github/followers/matiaspsara?style=social)](https://github.com/matiaspsara)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiaspsara&&show_icons=true&&title_color=17a2b8&icon_color=271b1b&text_color=daf7f7&bg_color=090909)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspsara&layout=compact&theme=midnight-purple)
+
+## About Me
+
+I am a passionate developer with a strong focus on Java and JavaScript. I strive for clean code and creative solutions, and I am always eager to learn and collaborate on innovative projects. Currently pursuing a degree in Computer Science at Universidad Nacional de General Sarmiento, where I have been developing my skills in object-oriented programming and web development.
+
+## My Projects
+
+Here are some of the projects I have worked on:
+
+### GeneradorDeEquipos
+![GeneradorDeEquipos](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=GeneradorDeEquipos&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+
+A Java application to randomly generate sports teams. Perfect for recreational activities and school events.
+
+### ConectAR
+![ConectAR](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=ConectAR&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+
+A Java application based on the famous game "Connect 4". Challenge your friends and show off your strategic skills!
+
+### Juegos-Aritmeticos
+![Juegos-Aritmeticos](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=Juegos-Aritmeticos&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+
+A collection of interactive arithmetic games to help children learn and practice basic mathematical operations.
+
+### Minitp-Shell-Procesos
+![Minitp Shell Procesos](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=Minitp-Shell-Procesos&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+
+A shell implementation in C that allows you to manage processes efficiently in a Unix-based system.
+
+### landing-page
+![Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=matiaspsara&repo=landing-page&title_color=17a2b8&icon_color=003d59&text_color=efefef&bg_color=090909)
+
+A simple landing page project showcasing responsive design and the use of HTML, CSS, and JavaScript.
+
+## Skills and Technologies
+
+I have experience in the following programming languages and technologies:
+
+- JavaScript
+- Java
+- HTML
+- CSS
+- C
+- Shell
+
+## Get In Touch
+
+- Contact Email: matiaspsara@email.com
+- LinkedIn: [matiaspsara](https://www.linkedin.com/in/matiaspsara/)
+- GitHub: [matiaspsara](https://github.com/matiaspsara)
+
+Feel free to reach out if you are interested in collaborating on a project or if you have any questions. Let's connect!
+
+---
+
+_This profile README was generated with love by Vox Assist, powered by OpenAI's GPT-3._
