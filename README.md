@@ -14,23 +14,23 @@ I'm Matias Psara, a university student user who loves coding and problem-solving
 
 Here are a few of my notable projects:
 
-#### 1. GeneradorDeEquipos
+#### 1. Juegos Aritmeticos
 
 - A Java application developed for a university project
-- Uses Backtracking algorithm to generate teams from a customizable list of people
-- Demonstration of my ability to implement algorithms in Java and work on university assignments
-
+- An arithmetic puzzle game that plays in a 4x4 table
+- Players need to complete the cells in the table with the right numbers to reach the correct sum
+  
 #### 2. ConectAR
 
 - A project implementing the Kruskal algorithm in Java
 - Finds the minimum spanning tree in a weighted graph
 - Showcases my interest in algorithm optimization and problem-solving
 
-#### 3. Juegos Aritmeticos
+ #### 3. GeneradorDeEquipos
 
-- A Java application developed for a university project
-- An arithmetic puzzle game that plays in a 4x4 table
-- Players need to complete the cells in the table with the right numbers to reach the correct sum
+ A Java application developed for a university project
+ Uses Backtracking algorithm to generate teams from a customizable list of people
+ Demonstration of my ability to implement algorithms in Java and work on university assignments
 
 These projects reflect my skills and interests as a developer and problem solver. I am constantly working on new projects and learning new technologies. Check out my GitHub profile to discover more of my creations!
 
