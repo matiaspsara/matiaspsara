@@ -14,7 +14,7 @@ I'm Matias Psara, a university student user who loves coding and problem-solving
 
 Here are a few of my notable projects:
 
-#### 1. Juegos Aritmeticos
+#### 1. Arithmetic Games
 
 - A Java application developed for a university project
 - An arithmetic puzzle game that plays in a 4x4 table
@@ -26,7 +26,7 @@ Here are a few of my notable projects:
 - Finds the minimum spanning tree in a weighted graph
 - Showcases my interest in algorithm optimization and problem-solving
 
- #### 3. GeneradorDeEquipos
+ #### 3. Team Generator
 
  A Java application developed for a university project
  Uses Backtracking algorithm to generate teams from a customizable list of people
