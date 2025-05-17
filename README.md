@@ -1,79 +1,71 @@
-
 ## 👋 Hi there!
 
-I’m **Matias Psara**, a dedicated **Computer Science student** at **UNGS** in Buenos Aires, Argentina. I’m passionate about software development, algorithms, and building clean, efficient solutions. :contentReference[oaicite:0]{index=0}
+I’m **Matias Psara**, a Computer Science student at UNGS in Buenos Aires, Argentina. I build practical software solutions—ranging from web apps and mobile tools to incident registries and fleet management systems—and enjoy solving algorithmic challenges along the way.
 
 ---
 
 ## 🎯 What I Do
 
-- 🔭 I’m currently working on university projects involving graph algorithms and team-generation tools.  
-- 🌱 I’m learning **machine learning**, **cloud-native architectures**, and **DevOps practices**.  
-- 💬 Ask me about **Java**, **JavaScript**, **React**, **Flutter**, or **AWS**.  
-- 📫 How to reach me: see **Connect with Me** below.
+- 🔭 I’m currently developing:
+  - A nautical assistance app for vessel operations.
+  - A fleet management system for tracking vehicles.
+  - An incident registration platform for reporting and analytics.
+- 🌱 I’m deepening my knowledge of **cloud-native architectures**, **DevOps**, and **machine learning**.
+- 💬 Feel free to ask me about **Java**, **JavaScript/TypeScript**, **React**, **Flutter**, **AWS**, and **Docker**.
+- 📫 See **Connect with Me** below to reach out.
 
 ---
 
 ## 🔧 Skills & Technologies
 
-Here are some of the languages, frameworks, and tools I use regularly:
-
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></td>
     <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></td>
     <td><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
   </tr>
-</table>  
-:contentReference[oaicite:1]{index=1}
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are a few key projects I’m proud of (pinned on my GitHub) :contentReference[oaicite:2]{index=2}:
+Below are my three most recent projects. For each, please replace the placeholder descriptions and tech stacks as needed.
 
-- ### [ConectAR](https://github.com/matiaspsara/ConectAR)  
-  Implements **Kruskal’s algorithm** in Java to compute the minimum spanning tree of a weighted graph—ideal for optimizing network-style connections.  
-  **Tech:** Java, Data Structures & Algorithms.
+- ### [ft-auxilionautico-app](https://github.com/matiaspsara/ft-auxilionautico-app) (Private)  
+  _Forked from santischuckmann/ft-auxilionautico-app_  
+  **Description:**  
+  <!-- Briefly describe the purpose and features of your nautical assistance app -->  
+  **Technologies:**  
+  <!-- List the main languages, frameworks, and tools used -->
 
-- ### [GeneradorDeEquipos](https://github.com/matiaspsara/GeneradorDeEquipos)  
-  University project that generates the optimal team configuration using a **backtracking algorithm**.  
-  **Tech:** Java, Algorithm Design.
+- ### [proyecto-flota-vehiculos-grupo4](https://github.com/matiaspsara/proyecto-flota-vehiculos-grupo4) (Private)  
+  _Forked from santischuckmann/proyecto-flota-vehiculos-grupo4_  
+  **Description:**  
+  <!-- Briefly describe the fleet management system, its functionality, and impact -->  
+  **Technologies:**  
+  <!-- List the main languages, frameworks, and tools used -->
 
-- ### [Juegos-Aritmeticos](https://github.com/matiaspsara/Juegos-Aritmeticos)  
-  A 4×4 arithmetic matrix puzzle game in Java that blends logic and strategy—fill the grid to match row/column sums.  
-  **Tech:** Java, Game Development.
-
-- ### [rockPaperScissorsOdin](https://github.com/matiaspsara/rockPaperScissorsOdin)  
-  A simple, interactive **Rock–Paper–Scissors** web game.  
-  **Tech:** JavaScript, HTML, CSS.
-
-- ### [odin-recipes](https://github.com/matiaspsara/odin-recipes)  
-  Clean, user-friendly recipe pages built with plain HTML & CSS.  
-  **Tech:** HTML, CSS.
+- ### [registro-incidentes](https://github.com/matiaspsara/registro-incidentes) (Private)  
+  _Forked from santischuckmann/registro-incidentes_  
+  **Description:**  
+  <!-- Briefly describe how incidents are logged, tracked, and visualized -->  
+  **Technologies:**  
+  <!-- List the main languages, frameworks, and tools used -->
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiaspsara&show_icons=true&theme=radical" alt="Matias’s GitHub Stats" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiaspsara&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiaspsara&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -82,18 +74,16 @@ Here are a few key projects I’m proud of (pinned on my GitHub) :contentReferen
 ## 🤝 Open-Source & Community
 
 - ⭐️ 11 public repositories  
-- 🔀 Regular contributor to open-source projects  
-- 🏆 Participated in local hackathons and algorithm challenges  
-- 💬 Actively engage with peers on GitHub—issues, PRs, and discussions
+- 🔀 Regular contributor—issues, pull requests, and peer reviews  
+- 🏆 Active participant in algorithm challenges and local hackathons  
 
 ---
 
 ## 🎯 Goals & Interests
 
-- Continuously improve in **web development** (React, Node.js), **cloud infrastructure**, and **machine learning**.  
-- Enjoy solving algorithmic puzzles and participating in coding competitions.  
-- Exploring **DevOps** with Docker, Jenkins, and AWS.
-- Always eager to collaborate on open-source projects and learn from others.
+- Continue advancing in **web & mobile development**, **DevOps**, and **cloud services**.  
+- Explore **machine learning** applications and data-driven projects.  
+- Collaborate on open-source initiatives and grow my network in the tech community.
 
 ---
 
@@ -104,4 +94,4 @@ Here are a few key projects I’m proud of (pinned on my GitHub) :contentReferen
 - Twitter: <!-- @your_twitter_handle -->  
 - Portfolio: <!-- https://your-portfolio.com -->
 
-Feel free to drop me a message—I’m always open to new ideas, collaborations, and coffee chats! ☕️
+_Thanks for visiting! Let’s build something great together._  
