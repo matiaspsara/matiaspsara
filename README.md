@@ -38,7 +38,7 @@ These projects reflect my skills and interests as a developer and problem solver
 
 I am open to collaborations and connections within the GitHub community. If you have any questions, feedback, or project proposals, feel free to reach out to me:
 
-- 📧 Email: [matiaspsara@example.com](mailto:matiaspsara@gmail.com)
+- 📧 Email: [matiaspsara@gmail.com](mailto:matiaspsara@gmail.com)
 - 💼 LinkedIn: [Matias Psara](https://www.linkedin.com/in/matias-psara/)
 
 Let's connect and make great things together!
