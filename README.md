@@ -9,7 +9,6 @@ I’m **Matias Psara**, a Computer Science student at UNGS in Buenos Aires, Arge
 - 🔭 I’m currently developing:
   - A nautical assistance app for vessel operations.
   - A fleet management system for tracking vehicles.
-  - An incident registration platform for reporting and analytics.
 - 🌱 I’m deepening my knowledge of **cloud-native architectures**, **DevOps**, and **machine learning**.
 - 💬 Feel free to ask me about **Java**, **JavaScript/TypeScript**, **React**, **Flutter**, **AWS**, and **Docker**.
 - 📫 See **Connect with Me** below to reach out.
@@ -37,28 +36,41 @@ I’m **Matias Psara**, a Computer Science student at UNGS in Buenos Aires, Arge
 
 ## 🚀 Featured Projects
 
-Below are my three most recent projects. For each, please replace the placeholder descriptions and tech stacks as needed.
+Below are my two most recent projects. For each, please replace the placeholder descriptions and tech stacks as needed.
 
-- ### [ft-auxilionautico-app](https://github.com/matiaspsara/ft-auxilionautico-app) (Private)  
-  _Forked from santischuckmann/ft-auxilionautico-app_  
-  **Description:**  
-  <!-- Briefly describe the purpose and features of your nautical assistance app -->  
-  **Technologies:**  
-  <!-- List the main languages, frameworks, and tools used -->
+### [ft-auxilionautico-app](https://github.com/matiaspsara/ft-auxilionautico-app) (Private)  
+_Forked from santischuckmann/ft-auxilionautico-app_  
+**Description:**  
+A comprehensive mobile application built with React Native and Expo that provides nautical assistance services. The app features real-time location tracking, interactive maps, and document management capabilities, enabling users to access maritime services and manage their nautical activities efficiently. It includes features for viewing and sharing PDF documents, handling user authentication, and providing a seamless cross-platform experience.
+
+**Technologies:**  
+- React Native & Expo (Mobile Framework)
+- TypeScript (Programming Language)
+- React Navigation (Navigation Management)
+- React Native Maps (Mapping & Location Services)
+- Expo Location (GPS & Location Services)
+- AsyncStorage (Local Data Persistence)
+- Axios (HTTP Client)
+- React Native PDF (PDF Document Handling)
+- React Native WebView (Web Content Integration)
+- Jest & ESLint (Testing & Code Quality)
 
 - ### [proyecto-flota-vehiculos-grupo4](https://github.com/matiaspsara/proyecto-flota-vehiculos-grupo4) (Private)  
   _Forked from santischuckmann/proyecto-flota-vehiculos-grupo4_  
   **Description:**  
-  <!-- Briefly describe the fleet management system, its functionality, and impact -->  
+  A comprehensive fleet management system designed to streamline the administration of vehicles, drivers, and related operations. The platform enables users to manage vehicle fleets, track vehicle status and assignments, schedule maintenance, and handle associated documentation and reporting. Key features include vehicle and fleet management, predictive and preventive maintenance scheduling, and integration with real-time tracking and reporting tools.  
   **Technologies:**  
-  <!-- List the main languages, frameworks, and tools used -->
+  - TypeScript (frontend & backend)
+  - React (with Vite)
+  - Node.js & Express
+  - PostgreSQL
+  - Socket.IO (real-time communication)
+  - Leaflet (mapping & geolocation)
+  - Cypress (end-to-end testing)
+  - Swagger (API documentation)
+  - Axios (HTTP client)
+  - dotenv (environment configuration)
 
-- ### [registro-incidentes](https://github.com/matiaspsara/registro-incidentes) (Private)  
-  _Forked from santischuckmann/registro-incidentes_  
-  **Description:**  
-  <!-- Briefly describe how incidents are logged, tracked, and visualized -->  
-  **Technologies:**  
-  <!-- List the main languages, frameworks, and tools used -->
 
 ---
 
@@ -90,8 +102,6 @@ Below are my three most recent projects. For each, please replace the placeholde
 ## 📬 Connect with Me
 
 - LinkedIn: [matias-psara](https://www.linkedin.com/in/matias-psara/)  
-- Email: <!-- please replace with your email -->  
-- Twitter: <!-- @your_twitter_handle -->  
-- Portfolio: <!-- https://your-portfolio.com -->
+- Email: matiaspsara@gmail.com 
 
 _Thanks for visiting! Let’s build something great together._  
