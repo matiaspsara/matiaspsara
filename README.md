@@ -1,50 +1,42 @@
 ## Hi there! 👋
 
-I'm Matias Psara, a university student user who loves coding and problem-solving. Welcome to my GitHub profile!
+I'm **Matias Psara**, a passionate computer science student from Buenos Aires, Argentina. I love exploring the world of programming and technology, and I'm always eager to learn new skills and tackle interesting challenges!
 
-### 🧐 About Me
+## About Me
 
-- 🌱 Aspiring developer on a quest for clean code and creative solutions
-- 💻 Proficient in languages like Java,Python and Javascript, with a strong foundation in object-oriented programming
-- 🎓 Currently pursuing a degree in Computer Science at Universidad Nacional de General Sarmiento
-- 🤝 Enthusiastic about collaborating on innovative programming projects
-- 📚 Dedicated to continuous learning and self-improvement in the field of software development
+Currently studying **Computer Science** at UNGS, I'm driven by a fascination with technology and software development. My journey in programming has led me to work on various projects, honing my skills in different programming languages and frameworks.
 
-### ✨ My Best Projects 
+## Skills & Technologies
 
-Here are a few of my notable projects:
+java,js,html,css,git,github,mysql,postgres,react,flutter,docker,jenkins,aws
 
-#### 1. Arithmetic Games
+## Top Projects
 
-- A Java application developed for a university project
-- An arithmetic puzzle game that plays in a 4x4 table
-- Players need to complete the cells in the table with the right numbers to reach the correct sum
-  
-#### 2. ConectAR
+- [**Juegos-Aritmeticos**](https://github.com/matiaspsara/Juegos-Aritmeticos): A Java Arithmetic Matrix Game that combines numbers and strategy! 🌟 (Stars: 0, Language: Java)
+- [**GeneradorDeEquipos**](https://github.com/matiaspsara/GeneradorDeEquipos): A Java application for generating optimal teams using a backtracking algorithm. 🌟 (Stars: 0, Language: Java)
+- [**ConectAR**](https://github.com/matiaspsara/ConectAR): Implements the Kruskal algorithm in Java to find the minimum spanning tree in a weighted graph. 🌟 (Stars: 0, Language: Java)
+- [**rockPaperScissorsOdin**](https://github.com/matiaspsara/rockPaperScissorsOdin): A simple Rock Paper Scissors game project. 🌟 (Stars: 0, Language: JavaScript)
+- [**odin-recipes**](https://github.com/matiaspsara/odin-recipes): A collection of recipes presented in a clean and user-friendly HTML format. 🌟 (Stars: 0, Language: HTML)
 
-- A project implementing the Kruskal algorithm in Java
-- Finds the minimum spanning tree in a weighted graph
-- Showcases my interest in algorithm optimization and problem-solving
+## GitHub Stats
 
- #### 3. Team Generator
+🌟 **Public Repositories:** 11  
+👥 **Followers:** 4  
+🔗 **Following:** 1  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiaspsara&show_icons=true&theme=radical)
 
- A Java application developed for a university project
- Uses Backtracking algorithm to generate teams from a customizable list of people
- Demonstration of my ability to implement algorithms in Java and work on university assignments
+## Recent Activity
 
-These projects reflect my skills and interests as a developer and problem solver. I am constantly working on new projects and learning new technologies. Check out my GitHub profile to discover more of my creations!
+- Updated **ConectAR** repository with new features.  
+- Started new project: **GeneradorDeEquipos**.  
+- Contributed to several open-source projects on GitHub!  
+- Engaged with followers and shared insights on recent tech trends.  
+- Participated in a local hackathon event.
 
-### 📫 How to Reach Me
+## Latest Blog Posts
 
-I am open to collaborations and connections within the GitHub community. If you have any questions, feedback, or project proposals, feel free to reach out to me:
+Currently, I don't have any blog posts published. Stay tuned for future updates!
 
-- 📧 Email: [matiaspsara@gmail.com](mailto:matiaspsara@gmail.com)
-- 💼 LinkedIn: [Matias Psara](https://www.linkedin.com/in/matias-psara/)
+## Connect with Me
 
-Let's connect and make great things together!
-
-### 👀 Stay Connected
-
-Feel free to explore my repositories and see my latest activities on [GitHub](https://github.com/matiaspsara). While engagement and attention might be low at the moment, I am always working on new projects to expand my professional network. Your support and feedback are highly appreciated!
-
-Let's code, learn, and grow together in the GitHub community! 😄👍
+{"linkedin":"https://www.linkedin.com/in/matias-psara/"}
