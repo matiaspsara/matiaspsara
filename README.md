@@ -1,107 +1,86 @@
-## 👋 Hi there!
+<!-- This is the README for matiaspsara/matiaspsara (the "special" profile repo).
+     Create a public repo named exactly "matiaspsara" and put this as its README.md.
+     GitHub will automatically show it at the top of your profile. -->
 
-I’m **Matias Psara**, a Computer Science student at UNGS in Buenos Aires, Argentina. I build practical software solutions—ranging from web apps and mobile tools to incident registries and fleet management systems—and enjoy solving algorithmic challenges along the way.
-
----
-
-## 🎯 What I Do
-
-- 🔭 I’m currently developing:
-  - A nautical assistance app for vessel operations.
-  - A fleet management system for tracking vehicles.
-- 🌱 I’m deepening my knowledge of **cloud-native architectures**, **DevOps**, and **machine learning**.
-- 💬 Feel free to ask me about **Java**, **JavaScript/TypeScript**, **React**, **Flutter**, **AWS**, and **Docker**.
-- 📫 See **Connect with Me** below to reach out.
-
----
-
-## 🔧 Skills & Technologies
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></td>
-    <td><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-Below are my two most recent projects. For each, please replace the placeholder descriptions and tech stacks as needed.
-
-### [ft-auxilionautico-app](https://github.com/matiaspsara/ft-auxilionautico-app) (Private)  
-_Forked from santischuckmann/ft-auxilionautico-app_  
-**Description:**  
-A comprehensive mobile application built with React Native and Expo that provides nautical assistance services. The app features real-time location tracking, interactive maps, and document management capabilities, enabling users to access maritime services and manage their nautical activities efficiently. It includes features for viewing and sharing PDF documents, handling user authentication, and providing a seamless cross-platform experience.
-
-**Technologies:**  
-- React Native & Expo (Mobile Framework)
-- TypeScript (Programming Language)
-- React Navigation (Navigation Management)
-- React Native Maps (Mapping & Location Services)
-- Expo Location (GPS & Location Services)
-- AsyncStorage (Local Data Persistence)
-- Axios (HTTP Client)
-- React Native PDF (PDF Document Handling)
-- React Native WebView (Web Content Integration)
-- Jest & ESLint (Testing & Code Quality)
-
-- ### [proyecto-flota-vehiculos-grupo4](https://github.com/matiaspsara/proyecto-flota-vehiculos-grupo4) (Private)  
-  _Forked from santischuckmann/proyecto-flota-vehiculos-grupo4_  
-  **Description:**  
-  A comprehensive fleet management system designed to streamline the administration of vehicles, drivers, and related operations. The platform enables users to manage vehicle fleets, track vehicle status and assignments, schedule maintenance, and handle associated documentation and reporting. Key features include vehicle and fleet management, predictive and preventive maintenance scheduling, and integration with real-time tracking and reporting tools.  
-  **Technologies:**  
-  - TypeScript (frontend & backend)
-  - React (with Vite)
-  - Node.js & Express
-  - PostgreSQL
-  - Socket.IO (real-time communication)
-  - Leaflet (mapping & geolocation)
-  - Cypress (end-to-end testing)
-  - Swagger (API documentation)
-  - Axios (HTTP client)
-  - dotenv (environment configuration)
-
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi, I'm Matias 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiaspsara&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matiaspsara&theme=radical" alt="GitHub Streak" />
+  <b>Full Stack Developer</b> · React · TypeScript · Node.js · Astro · Next.js<br/>
+  Building things for the web · Based in Buenos Aires, Argentina · Open to remote work
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matias-psara/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:matiaspsara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://ciwe-landing.vercel.app"><img alt="Latest project" src="https://img.shields.io/badge/Latest_project-CIWE-38BDF8?style=flat&logoColor=white"></a>
 </p>
 
 ---
 
-## 🤝 Open-Source & Community
+### About me
 
-- ⭐️ 11 public repositories  
-- 🔀 Regular contributor—issues, pull requests, and peer reviews  
-- 🏆 Active participant in algorithm challenges and local hackathons  
+I'm a Full Stack Developer with over a year of professional experience plus an active freelance practice. I work mainly with JavaScript/TypeScript stacks — React, React Native, Next.js and Astro on the front; Node.js, Express and PostgreSQL on the back.
 
----
-
-## 🎯 Goals & Interests
-
-- Continue advancing in **web & mobile development**, **DevOps**, and **cloud services**.  
-- Explore **machine learning** applications and data-driven projects.  
-- Collaborate on open-source initiatives and grow my network in the tech community.
+I started as an Auxiliar Administrativo at Grupo San Miguel and was promoted internally to the development team, where I shipped features used by **thousands of users** across an inventory system (300+ SKUs) and a course management platform (150+ active users). Since May 2025 I've been freelancing remotely while keeping a steady habit of shipping small personal apps used by friends.
 
 ---
 
-## 📬 Connect with Me
+### Tech I use day to day
 
-- LinkedIn: [matias-psara](https://www.linkedin.com/in/matias-psara/)  
-- Email: matiaspsara@gmail.com 
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
+</p>
 
-_Thanks for visiting! Let’s build something great together._  
+---
+
+### Featured work
+
+🍦 **[CIWE — Ice-cream Shop Marketing Site](https://ciwe-landing.vercel.app)** — *Freelance, 2026*
+Marketing site for a regional artisan ice-cream shop in Muñiz, Buenos Aires (operating since 1979). Astro v6 + Tailwind CSS v4, deployed on Vercel. Full SEO (Open Graph, LocalBusiness JSON-LD, sitemap), auto-updating Instagram feed via Behold.so, WhatsApp / PedidosYa integrations, WebP pipeline cutting media size ~94%.
+→ Live: [ciwe-landing.vercel.app](https://ciwe-landing.vercel.app)
+
+🚤 **Boat Rescue Mobile App** — *Client project, 2024*
+Mobile emergency rescue app for boats with real-time GPS tracking and SOS button; companion admin panel for live monitoring of operations. **React Native, Expo, TypeScript, REST API.**
+
+🚛 **Fleet Management System** — *Capstone, 2024*
+End-to-end platform for tracking and managing vehicle fleets with real-time GPS, automated maintenance scheduling, and performance analytics. **Node.js, Express, TypeScript, React, PostgreSQL, Leaflet, WebSockets, Cypress.**
+
+🎬 **Movie Stream Finder** — *Personal, 2025*
+Search any movie and see where it's streaming. **React / Next.js + TMDB API.**
+
+🔥 **Asado Counter & Goal Counter** — *Personal tools, 2025*
+Side apps used regularly by friends — small utilities for organizing asados and tracking pickup-soccer goals. **React.**
+
+---
+
+### A bit more
+
+🎓 **Tecnicatura Universitaria en Sistemas** — Universidad Nacional de General Sarmiento, graduated December 2024.
+🌍 Spanish (native), English C1 (EF SET certified).
+🤝 Open to remote opportunities — full-time, part-time or project-based.
+
+---
+
+### Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matiaspsara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by — feel free to <a href="https://www.linkedin.com/in/matias-psara/">reach out on LinkedIn</a> or drop me an email at <a href="mailto:matiaspsara@gmail.com">matiaspsara@gmail.com</a>.
+</p>
