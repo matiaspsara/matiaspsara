@@ -72,15 +72,6 @@ Side apps used regularly by friends — small utilities for organizing asados an
 
 ---
 
-### Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matiaspsara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 <p align="center">
   Thanks for stopping by — feel free to <a href="https://www.linkedin.com/in/matias-psara/">reach out on LinkedIn</a> or drop me an email at <a href="mailto:matiaspsara@gmail.com">matiaspsara@gmail.com</a>.
 </p>
